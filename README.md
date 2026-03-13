@@ -1,2 +1,15 @@
-# resume
-Aspiring Java Full Stack Developer and Junior Web Developer currently pursuing B.Tech in Computer Science Engineering. This repository contains my professional resume highlighting my skills, projects, hackathon experience, and technical interests in web development and software engineering.
+# Sri Sai Datta Ramisetti – Resume
+
+Welcome to my resume repository.
+
+I am an aspiring **Java Full Stack Developer** and **Junior Web Developer**, currently pursuing **B.Tech in Computer Science Engineering**. I am passionate about building web applications, learning modern technologies, and participating in hackathons.
+
+## Skills
+- Java
+- C, C++
+- HTML, CSS, JavaScript
+- MySQL
+- GitHub
+
+## Resume
+Download my resume from this repository.
